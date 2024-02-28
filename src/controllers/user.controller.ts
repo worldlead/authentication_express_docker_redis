@@ -19,7 +19,7 @@ export const getMeHandler = (
     }
 }
 
-export const getAllUserHandler = async (
+export const getAllUsersHandler = async (
     req: Request,
     res: Response,
     next: NextFunction
